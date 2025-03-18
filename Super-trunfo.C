@@ -38,7 +38,6 @@ int main() {
     printf("|População: %d\n|", pop);
     printf("|Área: %.2f km²\n|", area);
     printf("|PIB: %.2f\n|", pib);
-    
-
+    printf("-------------------------\n");
     return 0;
 }
